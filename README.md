@@ -4,8 +4,6 @@ I'm a passionate developer who loves creating impactful projects and solving pro
 
 Let's Connect!
 
-- LinkedIn: (https://linkedin.com/in/gusjabungaf)
-- Twitter: (https://twitter.com/smiledevilfruit)
-- Portfolio: (https://superjabs.my.id)
-
-Thanks for stopping by! 😊
+- LinkedIn: https://linkedin.com/in/gusjabungaf
+- Twitter: https://twitter.com/smiledevilfruit
+- Portfolio: https://superjabs.my.id
