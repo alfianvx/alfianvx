@@ -1,3 +1,11 @@
-<h1>Hello there 👋</h1>
+# Hi there, I'm alfian 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfianvx&label=Profile%20views&color=0e75b6&style=flat" alt="alfianvx" /> </p>
+I'm a passionate developer who loves creating impactful projects and solving problems through code. Currently, I'm focused on front-end development.
+
+Let's Connect!
+
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/gusjabungaf)
+- Twitter: [Your Twitter Handle](https://twitter.com/smiledevilfruit)
+- Portfolio: [Your Portfolio Link](https://superjabs.my.id)
+
+Thanks for stopping by! 😊
