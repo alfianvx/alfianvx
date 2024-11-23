@@ -1,9 +1,1 @@
-# Hi there, I'm alfian 👋
-
-I'm a passionate developer who loves creating impactful projects and solving problems through code. Currently, I'm focused on front-end development.
-
-Let's Connect!
-
-- [Linkedin](https://linkedin.com/in/gusjabungaf)
-- [Twitter](https://twitter.com/smiledevilfruit)
-- [Telegram](https://t.me/@alfianvx)
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
